@@ -1,25 +1,32 @@
+<style>
+  ul.a {
+  list-style-type: square;
+  }
+</style>
 <h1>coding-principles</h1>
 Translating basic programming concepts between different languages
 <h1>The Principles</h1>
-*Writing and calling variables
+  <ul class="a">
+    <li>Writing and calling variables</li>
 
-*Writing and calling functions (conditionals, loops, structures)
+    <li>Writing and calling functions (conditionals, loops, structures)</li>
 
-*Writing and calling scripts
+    <li>Writing and calling scripts</li>
 
-*Input sanitization
+    <li>Input sanitization</li>
 
-*Tree, array, and heap manipulation
+    <li>Tree, array, and heap manipulation</li>
 
-*Linked lists
+    <li>Linked lists</li>
 
-*Basic sorting algorithms (such as bubble sort)
+    <li>Basic sorting algorithms (such as bubble sort)</li>
 
-*Different outputs, depending on language (such as draw or print or blinking an LED)
+    <li>Different outputs, depending on language (such as draw or print or blinking an LED)</li>
 
-*Language specific libraries and style guides
+    <li>Language specific libraries and style guides</li>
 
-*Making a short text adventure that takes advantage of various forms of output and libraries, with input sanitization
+    <li>Making a short text adventure that takes advantage of various forms of output and libraries, with input sanitization</li>
+  </ul>
 <h1>The video that inspired this approach:</h1>
 "[An Entire Computer Science Degree in 12 Minutes](https://www.youtube.com/watch?v=EJiVWoFk8GA)" by [Jason Goodison](https://www.youtube.com/@JasonGoodison). It has a very bare resemblance to what I'm explaining here.
 
