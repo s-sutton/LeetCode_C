@@ -25,7 +25,6 @@ In each programming language, apply the necessary principles to create a command
 
 * Interface to choose what kind of calculation
 * An addition and subtraction calculation with two user-defined numbers
-* An addition and subtraction calculation with an arbitrary quantity of user-defined numbers
 * A multiplication and division calculation with two user-defined numbers
 * Converting lengthy calculations using PEMDAS to perform an arbitrary quantity of calculations
 * More complex mathematics such as logarithms, cosine, and sine functions
