@@ -23,15 +23,15 @@ Translating basic programming concepts between different languages
 
 In each programming language, apply the necessary principles to create a command-line utility that can perform a variety of calculations.
 
-*Interface to choose what kind of calculation
-*An addition and subtraction calculation with two user-defined numbers
-*An addition and subtraction calculation with an arbitrary quantity of user-defined numbers
-*A multiplication and division calculation with two user-defined numbers
-*Converting lengthy calculations using PEMDAS to perform an arbitrary quantity of calculations
-*More complex mathematics such as logarithms, cosine, and sine functions
-*An ASCII grid display for graphing functions (assuming a monospace font)
-*Sorting an arbitrary quantity of numbers from both least to greatest and greatest to least
-*From a sorted list of numbers, determine median, mean, and range
-*Maybe rudimentary 3D animation, such as a spinning torus or a cube, also rendered in ASCII
+* Interface to choose what kind of calculation
+* An addition and subtraction calculation with two user-defined numbers
+* An addition and subtraction calculation with an arbitrary quantity of user-defined numbers
+* A multiplication and division calculation with two user-defined numbers
+* Converting lengthy calculations using PEMDAS to perform an arbitrary quantity of calculations
+* More complex mathematics such as logarithms, cosine, and sine functions
+* An ASCII grid display for graphing functions (assuming a monospace font)
+* Sorting an arbitrary quantity of numbers from both least to greatest and greatest to least
+* From a sorted list of numbers, determine median, mean, and range
+* Maybe rudimentary 3D animation, such as a spinning torus or a cube, also rendered in ASCII
 
 The idea here is to, essentially, figure out the basic building blocks of these languages so that it is easier to transition to building more complex programs.
