@@ -1,2 +1,2 @@
 Every challenge has a corresponding "concept" program that I used to test ideas outside of the LeetCode interface.
-The challenges themselves are code snippets from successful solutions pulled straight from LeetCode.
+The challenges themselves are code snippets from my successful solutions pulled straight from LeetCode.
